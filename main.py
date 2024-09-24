@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 import time
 
-# Initialize YOLO model
+
 yolo = YOLO("yolo-Weights/yolov5s.pt")
 
 # Initialize webcam
